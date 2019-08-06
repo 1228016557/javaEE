@@ -6,10 +6,9 @@ public class PhoneTest {
         //创建对象,调用方法
         Phone p = new Phone();
         p.call("林青霞");
-
-
         System.out.println("---------");
         NewPhone n = new NewPhone();
         n.call("林青霞");
     }
 }
+
