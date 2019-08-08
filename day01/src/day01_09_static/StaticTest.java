@@ -11,5 +11,6 @@ public class StaticTest   {
         s2.name="红瞳";
         s2.age = 20;
         s2.show();
+
     }
 }
