@@ -8,7 +8,7 @@ public class Home {
 //    public void lk(LookDoor l){
 //        l.loohdoor();
 //}
-    public void lk(LookDoor l){
+    public void lk(LookDoor  l){
         l.loohdoor();
     }
 }
