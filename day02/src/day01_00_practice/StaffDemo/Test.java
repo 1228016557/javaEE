@@ -17,5 +17,11 @@ public class Test {
         c1.setId(111);
         c1.setSalary(100000);
         c.show(c1);
+
+
     }
-}
+    }
+
+
+
+

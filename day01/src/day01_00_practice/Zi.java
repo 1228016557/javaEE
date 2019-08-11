@@ -27,7 +27,7 @@ public class Zi extends Fu {
         //super父类的引用
         super.showone();
     }
-    public void showone(){
-        System.out.println("子类showone");
-   }
+//    public void showone(){
+//        System.out.println("子类showone");
+//   }
 }

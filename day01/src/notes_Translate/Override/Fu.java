@@ -4,7 +4,7 @@ public class Fu {
     public String name;
     public int age;
 
-    public  void show(){
+    public  void show( int a){
         System.out.println("父类方法");
     }
 

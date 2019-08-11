@@ -1,7 +1,7 @@
 package notes_Translate.extend;
 //爸爸类
 public class Father extends grandfather {
-    public  String name;
+    public  String name ;
     public  int age;
 
     public Father() {

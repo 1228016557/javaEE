@@ -3,8 +3,7 @@ package day01_00_practice.Test;
 public class aaa extends Abstract implements bbb{
 
     @Override
-    public void aA() {
-
+        public void aA() {
     }
 
     @Override

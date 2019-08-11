@@ -1,4 +1,4 @@
-package day01_00_practice.day01;
+package day01_00_practice._01;
 
 public class Teacher extends Person {
     public Teacher() {

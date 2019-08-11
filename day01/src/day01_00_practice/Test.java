@@ -13,6 +13,8 @@ public class Test {
         Zi z1 = new Zi(20);
        z1.method();
 
+       Student s = new Student();
+       z1.showone();
 
     }
 }

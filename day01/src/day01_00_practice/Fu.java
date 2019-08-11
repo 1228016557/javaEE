@@ -11,7 +11,7 @@ public class Fu {
     public Fu() {
         System.out.println("父类无参");
     }
-    public void showone(){
+    public final void  showone(){
         System.out.println("父类showone");
     }
 }

@@ -1,6 +1,6 @@
 package day01_09_static;
 
-public class StaticTest   {
+public  class StaticTest   {
     public static void main(String[] args) {
         Student.university = "传智大学";
         Student s1 = new Student();

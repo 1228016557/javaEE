@@ -1,4 +1,4 @@
-package day01_00_practice.day01;
+package day01_00_practice._01;
 
 public class Test {
     public static void main(String[] args) {
