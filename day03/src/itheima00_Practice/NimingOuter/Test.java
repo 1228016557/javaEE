@@ -1,6 +1,7 @@
 package itheima00_Practice.NimingOuter;
 
 public class Test {
+
     public static void main(String[] args) {
       Fly f =  new Fly(){
             @Override
