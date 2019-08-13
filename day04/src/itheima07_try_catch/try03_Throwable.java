@@ -21,9 +21,9 @@ public class  try03_Throwable{
             //getMessage()返回此 throwable 的详细消息字符串
            // System.out.println(e.getMessage()); //Index 3 out of bounds for length 3
             //toString()返回此可抛出的简短描述
-           // System.out.println(e.toString()); //java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+            System.out.println(e.toString()); //java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
             //printStackTrace()把异常的错误信息输出在控制台
-            e.printStackTrace();
+            //e.printStackTrace();
 
         }
     }
