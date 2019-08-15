@@ -1,4 +1,4 @@
-package itheima010;
+package itheima010_fanxing;
 //测试类
 public class Test01 {
     public static void main(String[] args) {

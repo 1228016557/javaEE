@@ -1,4 +1,4 @@
-package itheima010;
+package itheima010_fanxing;
 //泛型类
 public class fanxing02<T>{
 private T  age;
