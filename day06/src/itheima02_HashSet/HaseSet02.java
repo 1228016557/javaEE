@@ -1,9 +1,10 @@
 package itheima02_HashSet;
 
 import java.util.HashSet;
+import java.util.Set;
 
 /*
-    HashSet如何来保证元素唯一
+    Set如何来保证元素唯一
                 通过判断添加严肃的hashcode方法和equals方法来保证元素的唯一性
                         先比较两个元素的hashcode
                             如果hashcode不同 则添加集合
@@ -12,7 +13,7 @@ import java.util.HashSet;
  */
 public class HaseSet02 {
     public static void main(String[] args) {
-        HashSet<String> set = new HashSet<>();
+        Set<String> set = new HashSet<>();
         set.add("abc");
         set.add("bcd");
         set.add("abc");

@@ -22,7 +22,12 @@ public class Test {
          for (Student student : t) {
              System.out.println(student.getName()+","+student.getChina()+","+student.getMath()+","+student.getSum());
          }
-
+            /*
+            张三,98,85,183
+            张一,95,87,182
+            张二,75,98,173
+            张四,85,74,159
+             */
 
      }
 }

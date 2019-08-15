@@ -12,14 +12,11 @@ import java.util.TreeSet;
 public class Demo {
     public static void main(String[] args) {
         Set<Integer> s = new TreeSet<>();
-
         Random r =new Random();
-
         while(s.size()<10){
             int i = r.nextInt(19)+1;
             s.add(i);
         }
-
-        System.out.println(s);
+        System.out.println(s); //[2, 4, 6, 7, 9, 10, 11, 12, 17, 19]
     }
 }

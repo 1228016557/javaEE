@@ -1,5 +1,5 @@
 package itheima010_fanxing;
-//泛型类
+//泛型类   创建对象时确定数据类型
 public class fanxing01<T> {
     private  T name;
 

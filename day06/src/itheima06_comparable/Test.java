@@ -20,6 +20,6 @@ public class Test {
         t.add(p4);
 
             System.out.println(t);
-
+//[Person{name='张一', age=20}, Person{name='张四', age=20}, Person{name='张二', age=24}, Person{name='张三', age=28}]
     }
 }
