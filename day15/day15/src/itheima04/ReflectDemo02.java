@@ -25,7 +25,7 @@ public class ReflectDemo02 {
 
         Method m3 = c.getMethod("method3", String.class, int.class);
         Object i3 = m3.invoke(s, "林青霞", 30);
-
+        //该方法是private修饰的所以要暴力反射
         Method f = c.getDeclaredMethod("function");
         f.setAccessible(true);
         f.invoke(s);
