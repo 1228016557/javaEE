@@ -31,7 +31,7 @@ public class ReflectTest02 {
         //className=itheima05.Student,methodName=study
        // 属性列表中每个键及其对应值都是一个字符串
         Properties prop = new Properties();
-        FileReader fr = new FileReader("day15\\src\\S01.properties");
+        FileReader fr = new FileReader("day15\\src\\itheima05\\S01.properties");
         prop.load(fr);
 
       //从配置文件中获取类名和方法名
